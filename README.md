@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/22A91A6119/leetcodeproblems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/22A91A6119/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 | [0219-contains-duplicate-ii](https://github.com/22A91A6119/leetcodeproblems/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/22A91A6119/leetcodeproblems/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/22A91A6119/leetcodeproblems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/22A91A6119/leetcodeproblems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
